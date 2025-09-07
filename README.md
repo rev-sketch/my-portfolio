@@ -52,8 +52,4 @@ This project is open source and licensed under the Revanth Induru License. See t
 
 ## Need Help? 🤔
 
-If you have any questions or need assistance, feel free to reach out to me at sunnypatel124555@gmail.com. I'm here to help! 🌞
-
-## GitHub Stars ⭐
-
-![GitHub Repo Stars](https://img.shields.io/github/stars/sunnypatell/react-threejs-portfolio?style=social)
+If you have any questions or need assistance, feel free to reach out to me at revanthinduru@gmail.com. I'm here to help! 🌞
