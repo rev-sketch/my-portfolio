@@ -255,8 +255,8 @@ const designTools = [
 
 const experiences = [
   {
-    title: "Software Developer - Restroy HealthyTech",
-    company_name: "Restroy HealthyTech - Hyderabad, India",
+    title: "Software Developer - Restory HealthyTech",
+    company_name: "Restory HealthyTech - Hyderabad, India",
     icon: restory, // <-- replace with your actual logo/icon variable
     iconBg: "#fff",
     date: "Aug. 2021 - Jul. 2023",
@@ -284,20 +284,7 @@ const experiences = [
       "Performed in-room checks, resolved device issues, and collaborated with vendors on bug logs and system updates.",
     ],
   },
-  {
-    title: "Tech Sales Associate - Staples Canada",
-    company_name: "Staples Canada (Co-op)",
-    icon: staples,
-    iconBg: "#1294C8",
-    date: "Sep. 2020 - Feb. 2021",
-    points: [
-      "Provided specialized support for Windows, Mac, and Linux, performing on-site installations, repairs, and optimizations.",
-      "Streamlined inventory processes by handling SKUs and POs, maintaining a well-organized sales floor.",
-      "Maintained accurate sales and inventory data in IBM AS/400, improving workflows and operational efficiency.",
-      "Resolved complex technical inquiries, delivering tailored solutions that ensured high customer satisfaction.",
-      "Facilitated e-commerce transactions, merging in-store and online channels.",
-    ],
-  },
+
 ];
 
 
