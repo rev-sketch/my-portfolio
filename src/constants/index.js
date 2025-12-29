@@ -270,21 +270,6 @@ const experiences = [
       "Followed Agile practices, performed code reviews, and used Postman and Swagger for testing and documentation."
     ],
   },
-  {
-    title: "System Support Specialist - Mackenzie Health",
-    company_name: "Mackenzie Health",
-    icon: mackenziehealth,
-    iconBg: "#fff",
-    date: "Jan. 2023 - Aug. 2023",
-    points: [
-      "Overhauled 400+ Surface tablets to bedside iPads, deploying the in-house 'Get Well Soon' app with Intune to hospital systems.",
-      "Developed and refined an admin portal for managing app services, user roles, and subscription expirations.",
-      "Utilized Jamf Pro for MDM, securely deploying iPads/iPhones across clinical departments.",
-      "Implemented Vocera VOIP on iPhones, enabling real-time communication among nurses and ER staff.",
-      "Performed in-room checks, resolved device issues, and collaborated with vendors on bug logs and system updates.",
-    ],
-  },
-
 ];
 
 
