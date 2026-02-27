@@ -111,7 +111,7 @@ const education = [
     company_name: "University of Texas at Arlington, TX",
     icon: uta,  // replace with your actual UTA icon reference
     iconBg: "#fff",
-    date: "2024 - Present",
+    date: "2024 - 2025",
     points: [
       "Focused on advanced coursework in Computer Science",
     ],
@@ -121,7 +121,7 @@ const education = [
     company_name: "National Institute of Technology, Calicut, India",
     icon: nitc,  // replace with your actual NITC icon reference
     iconBg: "#fff",
-    date: "2019 - 2023",
+    date: "",
     points: [
       "CGPA 3.5/4.0",
       "Secured JEE Main All India Rank (AIR) 6514 out of 1.2 million candidates",
