@@ -121,7 +121,7 @@ const education = [
     company_name: "National Institute of Technology, Calicut, India",
     icon: nitc,  // replace with your actual NITC icon reference
     iconBg: "#fff",
-    date: "",
+    date: "2017 - 2021",
     points: [
       "CGPA 3.5/4.0",
       "Secured JEE Main All India Rank (AIR) 6514 out of 1.2 million candidates",
@@ -259,7 +259,39 @@ const experiences = [
     company_name: "Restory HealthyTech - Hyderabad, India",
     icon: restory, // <-- replace with your actual logo/icon variable
     iconBg: "#fff",
-    date: "Aug. 2021 - Jul. 2023",
+    date: "Aug. 2020 - Dec. 2021",
+    points: [
+      "Developed scalable full-stack modules for a SaaS commerce platform integrating with Amazon, Shopify, Flipkart, and other marketplaces.",
+      "Built and maintained RESTful APIs using Node.js, Express.js, and MongoDB to manage listings, inventory, and orders.",
+      "Created dynamic, responsive UIs with React.js, Next.js, and Redux Toolkit for analytics dashboards and admin workflows.",
+      "Implemented JWT-based authentication, Firebase Auth, and RBAC for secure user access.",
+      "Managed real-time sync, triggers, and alerts using Firebase Firestore and Cloud Functions.",
+      "Deployed services using Docker, GitHub Actions, and AWS EC2, and maintained CI/CD pipelines.",
+      "Followed Agile practices, performed code reviews, and used Postman and Swagger for testing and documentation."
+    ],
+  },
+    {
+    title: "Mars",
+    company_name: "Restory HealthyTech - Hyderabad, India",
+    icon: restory, // <-- replace with your actual logo/icon variable
+    iconBg: "#fff",
+    date: "Jan. 2022 - Dec. 2023",
+    points: [
+      "Developed scalable full-stack modules for a SaaS commerce platform integrating with Amazon, Shopify, Flipkart, and other marketplaces.",
+      "Built and maintained RESTful APIs using Node.js, Express.js, and MongoDB to manage listings, inventory, and orders.",
+      "Created dynamic, responsive UIs with React.js, Next.js, and Redux Toolkit for analytics dashboards and admin workflows.",
+      "Implemented JWT-based authentication, Firebase Auth, and RBAC for secure user access.",
+      "Managed real-time sync, triggers, and alerts using Firebase Firestore and Cloud Functions.",
+      "Deployed services using Docker, GitHub Actions, and AWS EC2, and maintained CI/CD pipelines.",
+      "Followed Agile practices, performed code reviews, and used Postman and Swagger for testing and documentation."
+    ],
+  },
+    {
+    title: "Software Developer - Restory HealthyTech",
+    company_name: "Restory HealthyTech - Hyderabad, India",
+    icon: restory, // <-- replace with your actual logo/icon variable
+    iconBg: "#fff",
+    date: "Jan. 2024 - Present",
     points: [
       "Developed scalable full-stack modules for a SaaS commerce platform integrating with Amazon, Shopify, Flipkart, and other marketplaces.",
       "Built and maintained RESTful APIs using Node.js, Express.js, and MongoDB to manage listings, inventory, and orders.",
